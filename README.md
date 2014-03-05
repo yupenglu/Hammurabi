@@ -1,4 +1,4 @@
 Hammurabi
 =========
 
-CIT-HW01
+My first scala program!!
